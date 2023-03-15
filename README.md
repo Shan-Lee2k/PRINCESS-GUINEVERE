@@ -1,5 +1,7 @@
 # PRINCESS-GUINEVERE
-HOW TO RUN MYCODE
+
+#HOW TO RUN MY CODE:
+
 #Step 1: Go to Terminal and using this command to compile:
 ```
 g++ -o main main.cpp knight.cpp -I . -std=c++11
@@ -12,3 +14,5 @@ Example:
 main tc1_input
 
 ```
+![image](https://user-images.githubusercontent.com/120365693/225248126-e84da0c8-21d5-4691-a3a4-a244f7538a66.png)
+
